@@ -15,14 +15,17 @@ CreateAccount Screen
 SignIn Screen
 
 
+![SignIn](https://github.com/Fahim786577/Animeflix/assets/66484320/7a2388f9-51cd-40ff-aeb7-4f089a0036c8)
 
 
 Downloads Screen
 
+![Downloads](https://github.com/Fahim786577/Animeflix/assets/66484320/ad30bfa3-93bb-4544-90e9-6cfafb4c69f4)
 
 
 MyList
 
+![MyList](https://github.com/Fahim786577/Animeflix/assets/66484320/84127b25-9330-4043-b633-62df2024c96f)
 
 
 Homepage
